@@ -1,0 +1,23 @@
+matriz = []
+print("Steven Alejandro Martinez Ramirez")
+print("EJ #1 Crear matriz")
+filas = int(raw_input("FILAS"))
+columnas = int(raw_input("COLUMNAS"))
+
+for i in range(filas):
+    matriz.append([0]*columnas)
+
+print matriz
+print("____________________________________________")
+print("EJ #2 Diagonal")
+matriz2=[[1,2,3],[4,5,6],[7,8,9]]
+for i in range(3):
+    for j in range(3):
+        if i==j:
+            print matriz2[i][j]
+print("____________________________________________")
+print("EJ #3 Imprimir al revez")
+matriz3=[[1,2,3],[4,5,6],[7,8,9]]
+for i in range(2,-1,-1):
+    for j in range(2,-1,-1):
+        print matriz3[i][j]
