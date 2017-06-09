@@ -1,0 +1,12 @@
+Avatar,Jugador,Nacionalidad ,Puntaje ,Medallas Obtenidas ,Nivel ALcanzado ,Liga ,Fecha
+1,Rugal,Alemania,1250000,Profesional,50,Oro,08/06/17
+2,Winer,Escocia,1159000,Profesional,50,Oro,08/06/17
+3,Alexcremento,Colombia,150000,Semipro,41,Plata,08/06/17
+4,Robert,Chile,906789,Medium,30,Bronce,07/06/17
+5,Terry,EstadosUnidos,860750,Medium,28,Cobre,07/06/17
+6,Katy,Yugoslavia,86213,Medium,25,Cobre,07/06/17
+7,Plinio,Chile,1860750,Profesional,49,Plata,06/06/17
+8,Diana,Africa,760750,Medium,28,Cobre,06/06/17
+9,Killer,EstadosUnidos,830750,Medium,29,Plata,05/06/17
+10,Oto,Colombia,930750,Medium,33,Plata,05/06/17
+11,Macfly,Peru,530750,Facil,33,Bronce,05/06/17
